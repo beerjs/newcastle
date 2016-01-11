@@ -1,4 +1,4 @@
 
-Beer.js Newcastle Upon Tyne
+Beer.js Newcastle upon Tyne
 ===================
 
